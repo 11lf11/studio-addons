@@ -1,5 +1,5 @@
 {
-    "name": "botman/studio-addons",
+    "name": "11lf11/studio-addons",
     "license": "MIT",
     "description": "BotMan Studio specific addons.",
     "keywords": [
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "botman/botman": "~2.0 || ~3.0",
+        "11lf11/botman": "~2.0 || ~3.0",
         "guzzlehttp/guzzle": "~6.0 || ^7.0.1",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0",
         "illuminate/contracts": "^5.5 || ^6.0 || ^7.0 || ^8.0",
