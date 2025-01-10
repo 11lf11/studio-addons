@@ -1,6 +1,6 @@
 <?php
 
-namespace BotMan\Studio\Console\Commands;
+namespace lf11\Studio\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 

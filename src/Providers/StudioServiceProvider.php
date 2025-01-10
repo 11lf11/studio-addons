@@ -1,13 +1,13 @@
 <?php
 
-namespace BotMan\Studio\Providers;
+namespace lf11\Studio\Providers;
 
-use BotMan\Studio\Console\Commands\BotManCacheClear;
-use BotMan\Studio\Console\Commands\BotManInstallDriver;
-use BotMan\Studio\Console\Commands\BotManListDrivers;
-use BotMan\Studio\Console\Commands\BotManMakeConversation;
-use BotMan\Studio\Console\Commands\BotManMakeMiddleware;
-use BotMan\Studio\Console\Commands\BotManMakeTest;
+use lf11\Studio\Console\Commands\BotManCacheClear;
+use lf11\Studio\Console\Commands\BotManInstallDriver;
+use lf11\Studio\Console\Commands\BotManListDrivers;
+use lf11\Studio\Console\Commands\BotManMakeConversation;
+use lf11\Studio\Console\Commands\BotManMakeMiddleware;
+use lf11\Studio\Console\Commands\BotManMakeTest;
 use Illuminate\Support\ServiceProvider;
 use TheCodingMachine\Discovery\Discovery;
 

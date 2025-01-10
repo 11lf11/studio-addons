@@ -1,17 +1,17 @@
 <?php
 
-namespace BotMan\Studio\Testing;
+namespace lf11\Studio\Testing;
 
-use BotMan\BotMan\BotMan;
-use BotMan\BotMan\Drivers\Tests\FakeDriver;
-use BotMan\BotMan\Messages\Attachments\Audio;
-use BotMan\BotMan\Messages\Attachments\File;
-use BotMan\BotMan\Messages\Attachments\Image;
-use BotMan\BotMan\Messages\Attachments\Location;
-use BotMan\BotMan\Messages\Attachments\Video;
-use BotMan\BotMan\Messages\Incoming\IncomingMessage;
-use BotMan\BotMan\Messages\Outgoing\OutgoingMessage;
-use BotMan\BotMan\Messages\Outgoing\Question;
+use lf11\BotMan\BotMan;
+use lf11\BotMan\Drivers\Tests\FakeDriver;
+use lf11\BotMan\Messages\Attachments\Audio;
+use lf11\BotMan\Messages\Attachments\File;
+use lf11\BotMan\Messages\Attachments\Image;
+use lf11\BotMan\Messages\Attachments\Location;
+use lf11\BotMan\Messages\Attachments\Video;
+use lf11\BotMan\Messages\Incoming\IncomingMessage;
+use lf11\BotMan\Messages\Outgoing\OutgoingMessage;
+use lf11\BotMan\Messages\Outgoing\Question;
 use Illuminate\Support\Collection;
 use PHPUnit\Framework\Assert as PHPUnit;
 

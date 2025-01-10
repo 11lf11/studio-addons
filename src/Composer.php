@@ -1,6 +1,6 @@
 <?php
 
-namespace BotMan\Studio;
+namespace lf11\Studio;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Composer as BaseComposer;

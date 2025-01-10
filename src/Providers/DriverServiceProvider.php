@@ -1,6 +1,6 @@
 <?php
 
-namespace BotMan\Studio\Providers;
+namespace lf11\Studio\Providers;
 
 use BotMan\BotMan\Drivers\DriverManager;
 use Illuminate\Support\ServiceProvider;

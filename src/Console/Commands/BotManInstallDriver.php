@@ -1,8 +1,8 @@
 <?php
 
-namespace BotMan\Studio\Console\Commands;
+namespace lf11\Studio\Console\Commands;
 
-use BotMan\Studio\Composer;
+use lf11\Studio\Composer;
 use GuzzleHttp\Client;
 use Illuminate\Console\Command;
 

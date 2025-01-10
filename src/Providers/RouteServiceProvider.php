@@ -1,6 +1,6 @@
 <?php
 
-namespace BotMan\Studio\Providers;
+namespace lf11\Studio\Providers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

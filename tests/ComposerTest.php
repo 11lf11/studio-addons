@@ -24,7 +24,7 @@ class ComposerTest extends TestCase
 
     protected function getMockedComposer()
     {
-        $composer = m::mock('BotMan\Studio\Composer[getProcess]', [new Filesystem(), __DIR__])
+        $composer = m::mock('lf11\Studio\Composer[getProcess]', [new Filesystem(), __DIR__])
             ->shouldAllowMockingProtectedMethods();
         $process = m::mock('Symfony\Component\Process\Process');
 
